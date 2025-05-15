@@ -1,0 +1,47 @@
+body,html{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+	height:calc(100vh - 200px);
+	table-layout:fixed;
+}
+
+#alldata{
+display:none
+}
+button{
+  width:100px;
+	shadow:none;
+}
+#buttons{
+  width:400px;
+  margin:auto;
+}
+#canvaswrap{
+
+}
+#citymsg{
+font-weight: 100;
+}
+button:focus {outline:0; shadow:none; border:#a9a9a9}
+button:active{
+    background:#a9a9a9;
+	color: white;
+}
+
+.active{
+	background-color: #a9a9a9;
+	color: white;
+	border:2px solid black !important;
+}
+div{
+margin: auto;
+    /*width: 600px;*/
+}
+
+th{
+padding:10px;
+border: 1px solid black;
+width:50%;
+}

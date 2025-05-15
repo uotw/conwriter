@@ -1,0 +1,58 @@
+form {
+padding-left: 18px;
+}
+
+.prose {
+  width: 100%;
+}
+
+.form-group {
+  background-color: #e5e5e5;
+  border: solid 1px white;
+  padding: 10px;
+  margin: 2px;
+}
+.row {
+  display: flex;
+  width: 100%;
+}
+
+.column {
+  padding-left: 8px;
+  flex: 50%;
+  width: 50%;
+}
+.custom-control-label {
+  cursor: pointer;
+}
+.btn {
+    margin: 5px;
+    height: 75px;
+    position: relative;
+}
+.error {
+  color: red;
+}
+#about {
+}
+
+h1,
+h6 {
+  margin-left: 10px;
+}
+#aboutdialogue {
+  display: none;
+  max-width: 730px;
+  max-height: 224px;
+}
+.modal {
+  overflow: visible;
+}
+
+textarea{
+  margin-top:5px;
+  padding-left: 5px;
+}
+.radio label:hover {
+    cursor: pointer;
+}
