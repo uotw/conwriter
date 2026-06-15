@@ -1,0 +1,47 @@
+# Local-only backups, variants, archives — not for the repo
+
+# Top-level backup / variant PHP & HTML
+/ad.php
+/dev.php
+/donate.php
+/new.php
+/le_old.php
+/index.5.9.26.php
+/index_ad.php
+/indexad.php
+/index_noad.php
+/index_old.php
+/index_old2.php
+/index_old3.php
+/index_sorry.html
+/index_stats.php
+/js.js
+
+# Nested duplicate site / editor / old snapshots
+/con/
+/conTest/
+/editor/
+/old/
+
+# Archives
+/conTest.zip
+/conTest2.zip
+/sva.zip
+
+# Untracked extras inside otherwise-tracked dirs
+/img/2024.zip?v3
+/img/autoresize.js
+/img/jspdf.debug.js
+/img/large/
+/img/new23_bu/
+/img/newest/
+/img/qbad.jpg
+/img/small/
+/js/.htaccess
+/js/jspdf.v15.debug.js
+/js/script.js
+/js/script.le.js
+/js/script.mpa.js
+/js/script.mpa.v3.js
+/js/script.v2.js
+/js/script.v3.js
